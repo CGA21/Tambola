@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602715796147",
+    "project_id": "app1-a592f",
+    "storage_bucket": "app1-a592f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602715796147:android:940b4c9cc4e830b16276c6",
+        "android_client_info": {
+          "package_name": "com.killbox.Tambola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602715796147-csdm7p3pofksn685ndho0ermjqaqmoag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWJYJ6E0NBsV3K9wktKJeFAIKxoyi2XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602715796147-csdm7p3pofksn685ndho0ermjqaqmoag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2165341686632098~3707502371"
+    }
+  ],
+  "configuration_version": "1"
+}
